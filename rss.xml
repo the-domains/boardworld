@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Boardworld]]></title>
         <description><![CDATA[Boardworld]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boardworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 16:53:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 17:13:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boardworld/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79e2a482-7bda-461c-97e6-52afd1b7f2b3.JPG">]]></description>
+            <link>https://thegrid.ai/boardworld/246ab5da-ca52-4d3d-91db-d6b1ab49de99/index.html</link>
+            <guid isPermaLink="false">246ab5da-ca52-4d3d-91db-d6b1ab49de99</guid>
+            <pubDate>Sun, 20 Dec 2015 17:13:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a89babaa-a7c8-4624-a4cb-9a1bd007e5bd.jpg">]]></description>
-            <link>undefined7fc53663-d130-4011-82fa-b96328bf7022/index.html</link>
+            <link>https://thegrid.ai/boardworld/7fc53663-d130-4011-82fa-b96328bf7022/index.html</link>
             <guid isPermaLink="false">7fc53663-d130-4011-82fa-b96328bf7022</guid>
             <pubDate>Sun, 20 Dec 2015 16:52:58 GMT</pubDate>
         </item>
